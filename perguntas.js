@@ -1,59 +1,59 @@
 criaCartao(
-'categoria'
+'conhecimento gerais'
 'Quanto tempo a luz do Sol demora para chegar à Terra?'
 '8 minutos.'
 )
 
 criaCartao(
-'categoria'
+'conhecimento gerais'
 'Em que ano o homem pisou na lua?'
 '1969.'
 )
 
 criaCartao(
-'categoria'
+'conhecimento gerais'
 'Qual ave é capaz de bater as asas até 200 vezes por segundo?'
 'o beija-flor.'
 )
 
 criaCartao(
-'categoria'
+'conhecimento gerais'
 'Quantos ossos temos no nosso corpo?'
 '206.'
 )
 
 criaCartao(
-'categoria'
+'conhecimento gerais'
 'Qual é o menor país do mundo?'
 'Vaticano.'
 )
 
 criaCartao(
-'categoria'
+'conhecimento gerais'
 'Quantas teclas tem um piano?'
 '88'
 )
 
 criaCartao(
-'categoria'
+'conhecimento gerais'
 'Por qual apelido ficou conhecido o jogador de futebol Edson Arantes?'
 'Pelé.'
 )
 
 criaCartao(
-'categoria'
+'conhecimento gerais'
 'O que é filantropo?'
 ' Pessoa que pratica a caridade.'
 )
 
 criaCartao(
-'categoria'
-'pergunta'
-'resposta'
+'conhecimento gerais'
+'Em qual esporte são usadas as mãos para fazer gol?'
+'handebol ou polo aquático.'
 )
 
 criaCartao(
-'categoria'
-'pergunta'
-'resposta'
+'conhecimento gerais'
+'Qual a montanha mais alta do Brasil?'
+'Pico da Neblina'
 )
