@@ -1,31 +1,31 @@
 criaCartao(
 'conhecimento gerais',
 'Quanto tempo a luz do Sol demora para chegar à Terra?',
-'8 minutos.'
+'8 minutos'
 )
 
 criaCartao(
 'conhecimento gerais',
 'Em que ano o homem pisou na lua?',
-'1969.'
+'1969'
 )
 
 criaCartao(
 'conhecimento gerais',
 'Qual ave é capaz de bater as asas até 200 vezes por segundo?',
-'o beija-flor.'
+'o beija-flor'
 )
 
 criaCartao(
 'conhecimento gerais',
 'Quantos ossos temos no nosso corpo?',
-'206.'
+'206'
 )
 
 criaCartao(
 'conhecimento gerais',
 'Qual é o menor país do mundo?',
-'Vaticano.'
+'Vaticano'
 )
 
 criaCartao(
@@ -37,19 +37,19 @@ criaCartao(
 criaCartao(
 'conhecimento gerais',
 'Por qual apelido ficou conhecido o jogador de futebol Edson Arantes?',
-'Pelé.'
+'Pelé'
 )
 
 criaCartao(
 'conhecimento gerais',
 'O que é filantropo?',
-' Pessoa que pratica a caridade.'
+' Pessoa que pratica a caridade'
 )
 
 criaCartao(
 'conhecimento gerais',
 'Em qual esporte são usadas as mãos para fazer gol?',
-'handebol ou polo aquático.'
+'handebol ou polo aquático'
 )
 
 criaCartao(
